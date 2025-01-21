@@ -1,0 +1,48 @@
+.out {
+    width: min(20%, auto);
+    border: 1px solid purple;
+    align-self: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+table{
+    width: 1200px;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 17px;
+    padding-top: 17px;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.page {
+    top: 22px;
+    right: 20px;
+    width: 300px;
+    padding-bottom: 10px;
+    position: absolute;
+    visibility: hidden;
+    border: 1px solid red;
+    margin-top: 10px;
+    align-self: center;
+    text-align: center;
+}
+
+
+.todo{
+    width: 1200;
+    padding: 10px;
+    visibility: hidden;
+    border: 1px solid blue;
+    align-self: center;
+    text-align: center;
+    display: inline-block;
+}
