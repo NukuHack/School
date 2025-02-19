@@ -43,7 +43,7 @@ This repository is for personal use. However, if you find any resources or infor
 ## License
 
 This project is licensed under "no" license.
-- Meaning you may take whatever you need, you can distribute it (or even make money from it, but I bet ou won't).
+- Meaning you may take whatever you need, you can distribute it (or even make money from it, but I bet you won't).
 
 ## Acknowledgments
 
